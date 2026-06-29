@@ -1,6 +1,6 @@
 # Multica Skills for Codex / Claude
 
-This repository contains community skills for working with [Multica](https://github.com/multica-ai/multica) issues from native agent environments such as Codex and Claude Cowork.
+This repository contains skills for working with [Multica](https://github.com/multica-ai/multica) issues from native agent environments such as Codex and Claude Cowork.
 
 ## Why This Exists
 
